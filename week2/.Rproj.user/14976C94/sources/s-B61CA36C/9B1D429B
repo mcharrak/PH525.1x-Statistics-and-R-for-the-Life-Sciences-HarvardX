@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1575914325337.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "9B1D429B",
+    "lastKnownWriteTime" : 1575926270,
+    "last_content_update" : 1575926270486,
+    "path" : "~/Desktop/ml_books_tutorials/ML_classes/Statistics_harvard/project1/week2_video_notes_part2.R",
+    "project_path" : "week2_video_notes_part2.R",
+    "properties" : {
+        "cursorPosition" : "31,7",
+        "scrollLine" : "12",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

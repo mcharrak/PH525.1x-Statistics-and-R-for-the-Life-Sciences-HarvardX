@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1575929118072.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "773EFA23",
+    "lastKnownWriteTime" : 1575909954,
+    "last_content_update" : 1575909954,
+    "path" : "~/Desktop/ml_books_tutorials/ML_classes/Statistics_harvard/project1/week2_exercise_CLT.R",
+    "project_path" : "week2_exercise_CLT.R",
+    "properties" : {
+        "cursorPosition" : "63,10",
+        "scrollLine" : "47",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1575928438188.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "6891C97F",
+    "lastKnownWriteTime" : 1575992517,
+    "last_content_update" : 1575992517190,
+    "path" : "~/Desktop/ml_books_tutorials/ML_classes/Statistics_harvard/project1/week2_exercise_CLT_t-distribution.R",
+    "project_path" : "week2_exercise_CLT_t-distribution.R",
+    "properties" : {
+        "cursorPosition" : "158,14",
+        "scrollLine" : "139",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
